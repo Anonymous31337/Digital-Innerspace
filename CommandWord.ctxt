@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=CommandWord(java.lang.String)
+comment0.text=\r\n\ Constructor\ -\ initialise\ the\ command\ words.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getValidCommandWords()
+comment2.params=aString
+comment2.target=CommandWord\ getForString(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
